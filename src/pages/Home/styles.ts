@@ -70,7 +70,6 @@ export const Content = styled.div`
     flex: 1;
     flex-wrap: wrap;
     margin-top: 50px;
-
-    margin: 50px -20px 0 0;
+    gap: 1.5rem;
   }
 `;

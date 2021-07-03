@@ -77,7 +77,7 @@ const Home: React.FC = () => {
 
                   <strong>
                     {'Population: '}
-                    <span>{country.population.toLocaleString}</span>
+                    <span>{country.population.toLocaleString()}</span>
                   </strong>
                   <strong>
                     {'Region: '}
